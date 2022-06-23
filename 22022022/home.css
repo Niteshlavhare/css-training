@@ -1,0 +1,50 @@
+.body {
+    margin: 0%;
+}
+.header {
+    height: 20px;
+    background-color: aqua;
+    overflow: hidden;
+    margin: 0%;
+    padding: 5px;
+}
+.logo {
+    float: left;
+}
+.search {
+    float: right;
+}
+.nav {
+    padding: 10px;
+    margin: 0%;
+    text-align: center;
+    overflow: hidden;
+}
+.main {
+    margin: 0%;
+    height: 25%;
+    overflow: hidden;
+}
+.menu {
+    width: 40%;
+    float: left;
+    overflow: hidden;
+}
+.banner {
+    width: 100%;
+    float: left;
+    height: 0%;
+    overflow: hidden;
+}
+.banner1 {padding: 50px;}
+.image {
+    padding: 20px;
+    float: left;
+    width: 100%;
+    height: 0%;
+    overflow: hidden;
+}
+.footer {
+    background-color: aquamarine;
+    text-align: center;
+}

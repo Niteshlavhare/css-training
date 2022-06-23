@@ -1,0 +1,20 @@
+th {
+    background-color: aqua;
+    color: black;
+}
+.notdone {
+    background-color: red;
+}
+.done {
+    background-color: green;
+}
+.css {
+    background-color: olivedrab;
+}
+body {
+    background-color: blueviolet;
+}
+table {
+    background-color: white;
+    color: black;
+}

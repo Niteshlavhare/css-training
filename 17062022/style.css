@@ -1,0 +1,16 @@
+header {
+    background-color: darkorange;
+    height: 100px;
+}
+nav {
+    background-color: aquamarine;
+    height: 50px;
+}
+main {
+    background-color: yellowgreen;
+    height: 400px;
+}
+footer {
+    background-color: tomato;
+    height: 100px;
+}
