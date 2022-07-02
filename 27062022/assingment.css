@@ -1,0 +1,124 @@
+.column1 {
+    background-color: #a43e4c;
+    width: 20%;
+    float: left;
+    color: white;
+    box-sizing: border-box;
+}
+.name {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.column1 .profile img {
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    padding: 40px 40px 40px 40px;
+
+}
+.info .ul .li:hover {
+    background-color: white;
+    color: #a43e4c;
+
+}
+.info .ul .li:hover a {
+    color: #a43e4c
+}
+.info {
+    margin-left: 0%;
+    margin-bottom: 40px;
+}
+.ul {
+    margin: 0;
+    padding: 0;
+}
+.li {
+    border-bottom: 2px solid white;
+    display: inline-block;
+    text-align: center;
+    display: block;
+
+    padding: 20px;
+}
+a {
+    color: white;
+}
+.link {
+    text-align: center;
+    margin-bottom: 40px;
+
+
+}
+.copyright {
+    text-align: center;
+    margin-bottom: 80px;
+}
+.last {
+    text-align: center;
+}
+.link img {
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
+.column2 {
+    background: none;
+    color: white;
+    width: 80%;
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.about {
+    text-align: center;
+    margin-bottom: 50px;
+}
+.column {
+    display: inline-block;
+}
+.column1 .profile img {
+    width: 200px;
+    height: 200px;
+}
+.div2 {
+
+    float: left;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.column1div {
+    float: left;
+
+    width: 50%;
+    box-sizing: border-box;
+}
+.column2div {
+    float: left;
+
+    width: 50%;
+    box-sizing: border-box;
+}
+.div2 .column2div {
+    text-align: center;
+}
+.div3 .column1div {
+    text-align: center;
+
+}
+.div2 .column1div img {
+    width: 400px;
+    height: 200px;
+}
+.div3 .column2div img {
+    width: 400px;
+    height: 200px;
+}
+.div3 {
+    text-align: center;
+}
+a:link {
+    text-decoration: none;
+}
+body {
+ font-family: Arial, Helvetica, sans-serif;
+}

@@ -1,0 +1,26 @@
+.container {
+    background-color: aquamarine;
+    padding: 20px;
+    height: auto;
+}
+.header {
+    background-color: rgb(83, 193, 83);
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    top: 0%;
+}
+.nav {
+    position: relative;
+    margin-top: 20px;
+}
+.nav .child-nav {
+    display: none;
+    background-color: beige;
+    position: absolute;
+    top: 20px;
+    width: 100px;
+}
+.nav:hover .child-nav {
+    display: block;
+}

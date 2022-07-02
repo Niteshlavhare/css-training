@@ -1,0 +1,76 @@
+.body {
+    margin: 0%;
+}
+.header{
+    background-color: aqua;
+    padding: 20px;
+    overflow: hidden;
+}
+.logo{ float: left;
+
+}
+.search{
+    float: right;
+}
+.nav{
+    background-color: bisque;
+    text-align: center;
+    padding: 20px;
+    
+}
+.navlink{
+    display: inline;
+    border: 2px solid black;
+    margin: 0 20px;
+    padding: 10px;
+}
+.main{ display: inline;
+
+}
+.left{
+    float: left;
+    width: 20%;
+    padding: 10px;
+    margin: 0;
+}
+.menu{
+width: 100%;
+   
+    border-bottom: 1px solid gray;
+    padding:10px ;
+    text-align: left;
+    margin: 0px;
+}
+.middle{
+    float: left;
+    width: 10%;
+    padding: 20px;
+    text-align: center;
+    
+}
+.middle .product{
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+.right{
+    float: right;
+    text-align: center;
+    width: 20%;
+    margin: 5px auto;
+}
+.product{
+
+border: 1px solid gray;
+margin: 10px ;
+}
+body{
+    margin: 0px;
+}
+.footer{
+    background-color: aqua;
+    text-align: center;
+    display: inline-block;
+    width: 100%;padding: 10px;
+
+}
