@@ -1,0 +1,20 @@
+.body {
+width: 200px;
+height: 200px;
+cursor: pointer;
+background-color: aqua;
+position: absolute;
+}
+
+@keyframes colorchange {
+    from {background-color: blue;}
+    to {background-color: brown;}
+    
+}
+.body:hover {
+    animation-name: colorchange;
+    animation-duration: 3s;
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+}
